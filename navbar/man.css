@@ -1,0 +1,37 @@
+.img{
+    height: 50px;
+    width: 80px;
+    margin-left: 90px;
+}
+.icon {
+    margin-left: 60px;
+}
+.icon1{
+    margin-left: 30px;
+    font-weight: bolder;
+    
+} 
+.search {
+    margin-right: 10px;
+}
+.parent1{
+    display: flex;justify-content: space-evenly;
+    padding-top: 80px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+.cardimg{
+    height: 250px;
+        
+}
+cardwid{
+    width: 150px;
+}
+
+.parent2{
+    display: flex;justify-content: space-evenly;
+    padding-top: 80px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+ 
+}   
